@@ -1,0 +1,27 @@
+public class WEC extends KFd {
+  public boolean bzF() {
+    return false;
+  }
+  
+  static {
+  
+  }
+  
+  public boolean FWm() {
+    return false;
+  }
+  
+  public boolean Dne() {
+    return false;
+  }
+  
+  public WEC(UpO paramUpO) {
+    super(paramUpO);
+  }
+}
+
+
+/* Location:              C:\Users\fract\Downloads\ERROR422.jar!\WEC.class
+ * Java compiler version: 8 (52.0)
+ * JD-Core Version:       1.1.3
+ */
