@@ -8,4 +8,8 @@ Decompiled Version of the Error 422 Mod for Minecraft 1.8.9
 
 **📁HOW TO USE📁**
 
-The folder "javas" has all the java files I couldn't fit them all so I had to put them in a folder lol, 
+1: The folder "javas" has all the java files (I couldn't fit them all so I had to put them in a folder lol) 
+
+2: Download it as a Zip then Extract it using Winrar/7Zip or the Default Windows Extractor.
+
+3: Then open it in Visual Studio.
