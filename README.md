@@ -1,4 +1,4 @@
-Decompiled Version of the Error 422 Mod for Minecraft 1.8.9
+Decompiled Version of the Error 422 Mod for Minecraft 1.3.6
 
 **🛠️Tools used🔨**
 
